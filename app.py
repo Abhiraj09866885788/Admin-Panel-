@@ -42,7 +42,7 @@ html_content = '''
         }
         .login-box h2 {
             font-size: 6vw;
-            color: green;
+            color: red;
             text-shadow: 0 0 5px #0ff;
             margin-bottom: 4vh;
             font-weight: 700;
