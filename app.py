@@ -21,7 +21,7 @@ html_content = '''
             width: 100%;
             height: 100%;
             background: url('https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1470&q=80') no-repeat center center / cover;
-            color: #0ff;
+            color: red;
             overflow: hidden;
             position: relative;
         }
@@ -42,7 +42,7 @@ html_content = '''
         }
         .login-box h2 {
             font-size: 6vw;
-            color: #0ff;
+            color: green;
             text-shadow: 0 0 5px #0ff;
             margin-bottom: 4vh;
             font-weight: 700;
@@ -53,7 +53,7 @@ html_content = '''
             margin: 2vh 0;
             font-size: 2.5vw;
             background: #000;
-            color: #0ff;
+            color: white;
             border: 2px solid #0ff;
             border-radius: 15px;
             text-align: center;
@@ -63,7 +63,7 @@ html_content = '''
             padding: 2vw 8vw;
             font-size: 2.5vw;
             background-color: #0ff;
-            color: #000;
+            color: orange;
             border: none;
             border-radius: 100px;
             margin-top: 3vh;
@@ -72,7 +72,7 @@ html_content = '''
             font-weight: 600;
         }
         .login-btn:hover {
-            background-color: #f0f;
+            background-color: yellow;
             color: #fff;
         }
 
@@ -80,13 +80,13 @@ html_content = '''
             display: none;
             width: 100vw;
             height: 100vh;
-            background-color: rgba(0, 0, 0, 0.7);
+            background-color: white(0, 0, 0, 0.7);
             overflow-y: auto;
             padding: 5vh 5vw;
             box-sizing: border-box;
         }
         .box {
-            background: rgba(0, 0, 0, 0.6);
+            background: white(0, 0, 0, 0.6);
             margin: 4vh 0;
             padding: 5vh 2vw;
             border-radius: 20px;
@@ -96,7 +96,7 @@ html_content = '''
         }
         .box h2 {
             font-size: 4vw;
-            color: #0ff;
+            color: green;
             margin-bottom: 1.5vh;
             text-shadow: 0 0 4px #0ff;
             font-weight: 700;
